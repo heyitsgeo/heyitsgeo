@@ -27,6 +27,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
+### Things I know & Things I've done ###
+
 <details open>
   <summary>🗂 <b>Experience</b>: </summary>
   
@@ -34,7 +36,7 @@
   📅 Jul 5, 2016 - Present  
   📍Infinity Software Development  
   <b>Description: </b>  
-  Working directly with clients to understand needs inorder to executed well planned and well designed web applications. Paired with teams of developers as well as technical lead roles. Transition quickly between new technologies as needs arise.
+  Working directly with clients to understand needs inorder to execute well planned and well designed web applications. Paired both as a member of team as well as technical lead. Transitioned quickly between new technologies as needs arise.
 </details>
 
 <details open> 
