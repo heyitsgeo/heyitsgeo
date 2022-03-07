@@ -36,9 +36,8 @@
   📅 Aug 2021 - Present
   📍 Slash Pine Tech
   <b>Description: </b>  
-  Supporting clients in building stable, lasting product solutions for their organiaztions.
-  
-  Providing an environment for employees to do thier best work and grow personally and professionally with a healthy work life balance.
+  * Supporting clients in building stable, lasting product solutions for their organiaztions.
+  * Provide an environment for employees to do thier best work and grow personally and professionally with a healthy work life balance.
   
   - Develop Analyst & Designer  
   📅 Jul 2016 - Aug 2021  
