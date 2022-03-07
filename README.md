@@ -32,8 +32,16 @@
 <details open>
   <summary>🗂 <b>Experience</b>: </summary>
   
+  - Lead Developer & CTO
+  📅 Aug 2021 - Present
+  📍 Slash Pine Tech
+  <b>Description: </b>  
+  Supporting clients in building stable, lasting product solutions for their organiaztions.
+  
+  Providing an environment for employees to do thier best work and grow personally and professionally with a healthy work life balance.
+  
   - Develop Analyst & Designer  
-  📅 Jul 5, 2016 - Present  
+  📅 Jul 2016 - Aug 2021  
   📍Infinity Software Development  
   <b>Description: </b>  
   Working directly with clients to understand needs inorder to execute well planned and well designed web applications. Paired both as a member of team as well as technical lead. Transitioned quickly between new technologies as needs arise.
