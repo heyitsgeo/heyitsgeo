@@ -20,6 +20,32 @@
   </div>
 </div>
 
+<br>
+<br>
+<h4 align="center">
+  I'm Geo, a software engineer from Tallahassee, FL, USA. <br>
+  I design and develop full-stack systems with a focus on frontend web application architecture.
+</h4>
+<br>
+<br>
+
+## :briefcase: work
+* **Currently (2021 - Present):** CHO *(Chief Happiness Officer)*, Lead Software Engineer, and co-founder of [Slash Pine Tech](https://slashpine.tech/).
+* **Previously (2016 - 2021):** Developer/analyst at Infinity Software Development.
+
+## :crossed_swords: tools of trade
+### :gear: Languages
+<div id="languages">
+  <span>
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript badge" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=javascript&logoColor=white" alt="typescript badge" />
+  </span>
+</div>
+
+
+
 <h1 align='center'>
   thanks for visiting 🛸
 </h1>
