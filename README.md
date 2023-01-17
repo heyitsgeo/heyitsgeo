@@ -194,9 +194,6 @@
   <span>
     <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow badge" />
   </span>
-  <span>
-    <img src="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="webflow badge" />
-  </span>
 </div>
 
 
