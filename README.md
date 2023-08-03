@@ -30,7 +30,7 @@
 <br>
 
 ## :briefcase: work
-* **Currently (2021 - Present):** CHO *(Chief Happiness Officer)*, Lead Software Engineer, and co-founder of [Slash Pine Tech](https://slashpine.tech/).
+* **Currently (2021 - Present):** CHO *(Chief Happiness Officer)*, Staff Software Engineer, and co-founder of [Slash Pine Tech](https://slashpine.tech/).
 * **Previously (2016 - 2021):** Developer/analyst at Infinity Software Development.
 
 ## :crossed_swords: tools of trade
