@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" alt="illustration of programmer at computer" />
   
   <div id="badges">
-    <a href="https://heylisten.social/@geostokes">
+<!--     <a href="https://heylisten.social/@geostokes">
       <img src="https://img.shields.io/badge/Mastodon-blueviolet?style=for-the-badge&logo=mastodon&logoColor=white" alt="mastodon badge" />
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/geo-stokes-09225857/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin badge" />
     </a>
