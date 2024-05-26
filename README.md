@@ -8,7 +8,7 @@
   I'm Geo, a software engineer from Tallahassee, FL, USA. <br>
   I design and develop full-stack systems with a focus on frontend web application architecture.
 </h4>
-<p align="center">Visit my site <a href="heyitsgeo.dev" target="_blank">heyitsgeo.dev</a></p>
+<p align="center">Visit my site <a href="https://heyitsgeo.dev" target="_blank">heyitsgeo.dev</a></p>
 <br>
 <br>
 
